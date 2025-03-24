@@ -1,0 +1,14 @@
+C:\Users\pc\RiderProjects\Containers\Containers\bin\Debug\net8.0\Containers.exe
+C:\Users\pc\RiderProjects\Containers\Containers\bin\Debug\net8.0\Containers.deps.json
+C:\Users\pc\RiderProjects\Containers\Containers\bin\Debug\net8.0\Containers.runtimeconfig.json
+C:\Users\pc\RiderProjects\Containers\Containers\bin\Debug\net8.0\Containers.dll
+C:\Users\pc\RiderProjects\Containers\Containers\bin\Debug\net8.0\Containers.pdb
+C:\Users\pc\RiderProjects\Containers\Containers\obj\Debug\net8.0\Containers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\RiderProjects\Containers\Containers\obj\Debug\net8.0\Containers.AssemblyInfoInputs.cache
+C:\Users\pc\RiderProjects\Containers\Containers\obj\Debug\net8.0\Containers.AssemblyInfo.cs
+C:\Users\pc\RiderProjects\Containers\Containers\obj\Debug\net8.0\Containers.csproj.CoreCompileInputs.cache
+C:\Users\pc\RiderProjects\Containers\Containers\obj\Debug\net8.0\Containers.dll
+C:\Users\pc\RiderProjects\Containers\Containers\obj\Debug\net8.0\refint\Containers.dll
+C:\Users\pc\RiderProjects\Containers\Containers\obj\Debug\net8.0\Containers.pdb
+C:\Users\pc\RiderProjects\Containers\Containers\obj\Debug\net8.0\Containers.genruntimeconfig.cache
+C:\Users\pc\RiderProjects\Containers\Containers\obj\Debug\net8.0\ref\Containers.dll
